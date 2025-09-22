@@ -1,1 +1,0 @@
-# aspm-docker-demo
